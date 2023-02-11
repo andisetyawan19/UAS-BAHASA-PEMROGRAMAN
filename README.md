@@ -379,3 +379,8 @@ Pada soal ke-3 ini, jika kalian ingin menginput suatu data yaitu sama halnya sep
 
 ![TAMBAH DATA](img/input_data.png)
 ________________________________________________________________________________________________________________________
+
+
+TERIMA KASIH MUNGKIN ITU SAJA DARI SAYA, BERIKUT LINK DOKUMENTASI YOUTUBE https://youtu.be/FjQADFnNQdw DAN JUGA PDF FILE NYA
+
+
